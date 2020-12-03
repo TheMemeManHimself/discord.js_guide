@@ -19,6 +19,7 @@ case 'bruh momento':
 Output:
 
 **User**: !bruh momento
+
 **Bot**: bruh momento indeed
 
 
@@ -42,6 +43,7 @@ case: bruh momento
 Output:
 
 **User**: !bruh momento
+
 **Bot**: @User, bruh momento indeed
 ```
 ```
